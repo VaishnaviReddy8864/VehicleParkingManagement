@@ -3,14 +3,6 @@
 ## Introduction
 This document outlines the Low-Level Design (LLD) for a **Vehicle Parking Management System** that facilitates efficient parking slot management, vehicle entry/exit logging, reservations, and billing operations. The system aims to streamline both visitor and subscriber parking operations in real time. The backend is developed using **Spring Boot**, **JPA**, and **MySQL**.
 
-## Agile Methodology
-
-[Agile Methodology Document](https://cognizantonline-my.sharepoint.com/:w:/g/personal/2407109_cognizant_com/Ea00M-UJoO5GiXjZdVXY6_kBsmo8_MQWcremental pieces of work. It emphasizes flexibility, collaboration, and customer satisfaction. Agile projects are divided into short phases called sprints, allowing teams to adapt quickly to changes and continuously improve their processes [1](https://asana.com/resources/agile-methodology) [2](https://www.geeksforgeeks.org/what-is-agile-methodology/).
-
-
-### Key Principles of Agile:
-- **Customer satisfaction** through early and continuous delivery of valuable software.
-- **Welcoming changing requirements**, even late in development
 
 
 ## Architecture Overview
